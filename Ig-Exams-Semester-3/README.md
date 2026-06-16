@@ -36,9 +36,7 @@
 
 | Matière                  | Code      |
 |:------------------------:|:---------:|
-| algèbre linéaire 1       | algebre1  |
-| analyse mathématique 1   | anamath1  |
-| économie générale        | ecogene   |
+
 
 
 <div id="user-content-toc" align="center">
