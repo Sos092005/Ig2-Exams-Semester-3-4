@@ -2,7 +2,7 @@
 <div id="user-content-toc" align="center">
   <ul style="list-style: none;">
     <summary>
-      <h1>Ig-Exams-Semester-1</h1>
+      <h1>Ig2-Exams-Semester-3</h1>
     </summary>
   </ul>
 </div>
@@ -34,9 +34,17 @@
   </ul>
 </div>
 
-| Matière                  | Code      |
-|:------------------------:|:---------:|
-
+| Matière                              | Code      |
+|:------------------------------------:|:---------:|
+| bases de reseau informatiques        | reseau1   |
+| bases de donnees                     | bd        |
+| comptabilite analytique de gestion   | cage      |
+| entrepreneuriat 2                    | entrp2    |
+| maintenance informatique             | mi        |
+| recherche operationnelle             | ro        |
+| statistiques inferentielle           | statinfo  |
+| statistiques et probabilites         | statproba |
+| structures de donnees                | struct    |
 
 
 <div id="user-content-toc" align="center">
